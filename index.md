@@ -1,7 +1,3 @@
----
-title: "El Cerrito Fire Department Analysis"
----
-
 # El Cerrito Fire Department Analysis (2017–2024)
 
 This project analyzes fire department activity in El Cerrito and Kensington using incident data, response times, and spatial patterns. The analysis includes over 20,000 fire incidents and highlights key trends by region, station, and type.
