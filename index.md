@@ -28,4 +28,5 @@ Stations 51, 52, and 55 represent the El Cerrito–Kensington coverage area. The
 - GitHub for publishing
 - Google Maps to assist with geographic classification and proximity calculations
 
-[Read the full report (Word)](El-Cerrito-Fire-Department-Analysis-20250728.docx)
+[Read the full report (Word)](https://github.com/IraSharenow100/el-cerrito-fire-report/raw/main/El-Cerrito-Fire-Department-Analysis-20250728.docx)
+
