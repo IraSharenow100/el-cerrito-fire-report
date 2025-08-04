@@ -11,7 +11,7 @@ This repository contains a report analyzing fire department incidents for El Cer
 ## Summary
 
 Key findings include:
-- Station 51 handles 4× more incidents than Stations 52 or 55
+- Station 51 handles about 4× more work than Stations 52 or 55
 - EMS (code 321) incidents dominate the call volume
 - Regional differences in response time are statistically significant
 - No meaningful seasonal patterns in incident counts were found
